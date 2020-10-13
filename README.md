@@ -17,3 +17,9 @@ y que calcule su índice de masa corporal (imc).
 ## Prog3
 
 Escriba un programa que pida primero un número par y luego un número impar (positivos o negativos). En caso de que uno o los dos valores no sea correcto, se mostrará un único aviso.
+
+## Prog4
+
+ Escriba un programa que pida primero un número par (positivo o negativo) y si el valor no es
+correcto, muestre un aviso. Si el valor es correcto, pedirá un número impar (positivo o negativo) y si
+el valor no es correcto, mostrará un aviso.
