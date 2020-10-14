@@ -2,7 +2,7 @@
 
 Ejercicios en Python
 
-![Screenshot](Python.png)![Screenshot](Python.png)
+![Screenshot](Python.png)![Screenshot](pycharm.jpg)
 
 ## Prog1
 
@@ -29,3 +29,12 @@ el valor no es correcto, mostrará un aviso.
 Escriba un programa que pida dos números enteros y escriba qué números son pares y
 cuáles impares desde el primero hasta el segundo.
 ○ Un número es par cuando el resto de su división entre dos es cero (numero % 2 == 0) e impar cuando no lo es
+
+## Prog6
+
+Escriba un programa que pida un número entero mayor que cero y que escriba sus
+divisores.  
+○ Un número es divisible por otro cuando el resto de su división es cero (numero % divisor == 0).  
+○ Se puede hacer un programa más rápido, teniendo en cuenta que los divisores son siempre menores o iguales que la
+mitad del número (salvo el propio número, que es divisor de sí mismo). Es decir, no hace falta probar todos los números entre 1 y el propio número, sino únicamente hasta la mitad. Si se hace así, no hay que olvidarse de añadir el propio número a la lista de divisores.  
+Decir si es numero primo
