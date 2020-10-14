@@ -2,7 +2,8 @@
 
 Ejercicios en Python
 
-![Screenshot](Python.png)![Screenshot](pycharm.jpg)
+![Screenshot](Python.png)
+![Screenshot](pycharm.jpg)
 
 ## Prog1
 
@@ -33,8 +34,14 @@ cuáles impares desde el primero hasta el segundo.
 ## Prog6
 
 Escriba un programa que pida un número entero mayor que cero y que escriba sus
-divisores.  
-○ Un número es divisible por otro cuando el resto de su división es cero (numero % divisor == 0).  
-○ Se puede hacer un programa más rápido, teniendo en cuenta que los divisores son siempre menores o iguales que la
-mitad del número (salvo el propio número, que es divisor de sí mismo). Es decir, no hace falta probar todos los números entre 1 y el propio número, sino únicamente hasta la mitad. Si se hace así, no hay que olvidarse de añadir el propio número a la lista de divisores.  
+divisores.
 Decir si es numero primo
+○ Un número es divisible por otro cuando el resto de su división es cero (numero % divisor == 0).
+○ Se puede hacer un programa más rápido, teniendo en cuenta que los divisores son siempre menores o iguales que la
+mitad del número (salvo el propio número, que es divisor de sí mismo). Es decir, no hace falta probar todos los números entre 1 y el propio número, sino únicamente hasta la mitad. Si se hace así, no hay que olvidarse de añadir el propio número a la lista de divisores.
+
+## Prog7
+
+Escriba un programa que permita crear una lista de palabras. Para ello, el programa tiene
+que pedir un número y luego solicitar ese número de palabras para crear la lista. Por último, el
+programa tiene que escribir la lista.
